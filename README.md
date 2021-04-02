@@ -13,7 +13,7 @@
 
 ## 🔗 Link importantes
 1. [Link del Reto (Kaggle)](https://www.kaggle.com/c/titanic/data)
-2. [Solución del Reto (Notebook)](https://www.kaggle.com/c/titanic/data)
+2. [Solución del Reto (Notebook)](https://github.com/CristianAgredo/Reto-Titanic-Team-ParSel/blob/main/titanic_machine_learning_from_disaster.ipynb)
 
 ```
 #RetoFem
